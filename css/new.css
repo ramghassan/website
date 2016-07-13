@@ -1,28 +1,6 @@
 
-.grid_n{
-  margin-left: auto;
-  margin-right: auto;
-  width: 1080px;
-  height: 100%;
-  background-color: ;
-}
-.grid_3n{
-  display: inline;
-  float: left;
-  margin-left: 10px;
-  margin-right: 0px;
-  width:340px;
-}
-.grid_f
-{
-	display: inline;
-  float: left;
-  margin-left: 0px;
-  margin-right: 0px;
-  width:1060px;
-  color: white;
-}
-.grid_f h1
+
+.grid_12 h1
 {
 	height:50px;
 	font-size:35px; 
@@ -36,15 +14,15 @@
 #fac1
 {
 	background: url(../image/id4.jpg)no-repeat;
-	width: 320px;
-	height: 320px;
+	width: 300px;
+	height: 300px;
 	position: relative;
 	top:50px;
 }
 #fac2
 {
 	background: url(../image/id3.jpg)no-repeat;
-	width: 320px;
+	width: 300px;
 	height: 300px;
 	position: relative;
 	top:50px;
@@ -53,8 +31,8 @@
 {
 
 	background: url(../image/abcd.jpg)no-repeat;
-	width: 320px;
-	height: 330px;
+	width: 300px;
+	height: 300px;
 	position: relative;
 	top:50px;
 }

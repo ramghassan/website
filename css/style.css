@@ -3,7 +3,7 @@
 	width:100%;
 	height:60px;
 	background-size: cover;
-    background: url(../image/c1.jpg) no-repeat;
+    background: #CD853F;
     position: fixed;
 overflow: hidden;
 top:0;
@@ -17,10 +17,10 @@ z-index: 1000;
 	display: inline;
 	float: right;
    margin-top: 20px;
-	margin-right: 50px; 
+	margin-right: 50px;
 	font-size: 20px;
 	font-family: sans-serif;
-	
+
 }
 
 .list li a {
@@ -57,7 +57,7 @@ font-family: 'Alegreya', serif;
 	background-size: cover;
 	margin-right:0;
 	margin-left: 4px;
-	
+
 
 }
 .grid_12{
@@ -107,7 +107,7 @@ font-family: 'Alegreya', serif;
 {
 	margin-top:80px;
 	margin-left: 30px;
-	background: url(../image/logo.png); 
+	background: url(../image/logo.png);
 }
 .hname
 {
@@ -128,18 +128,18 @@ font-family: 'Francois One', sans-serif;
 .b1
 {
 	background:url(../image/w1.jpg);
-	
+
     width: 100%;
    top:0;
 	height: 170%;
-	
+
 
 }
 .container_12
 {
 	/*background-color:#ADD8E6;
 	bo
-*/	
+*/
 border-color: black;
 
 }
@@ -162,7 +162,7 @@ font-family: 'Bangers', cursive;
    font-size: 25px;
    color: #fff;
    font-style: bold;
- 
+
 }
 #spl
 {
@@ -207,26 +207,97 @@ font-family: 'Bangers', cursive;
    font-size: 17px;
    font-weight: bold;
 }
+
+.map{
+	background: url(../image/map.png);
+	width:100%;
+	height: 600px;
+	margin: auto;
+	position: relative;
+	top:30px;
+}
+.track
+{
+	position: relative;
+	top:30px;
+}
+
+
+.grid_12 h1
+{
+	height:50px;
+	font-size:35px; 
+	font-family: 'Fjalla One', sans-serif;
+	color: black;
+	text-align: center;
+	position: relative;
+	top:20px;
+
+}
+#fac1
+{
+	background: url(../image/id4.jpg)no-repeat;
+	width: 300px;
+	height: 300px;
+	position: relative;
+	top:50px;
+}
+#fac2
+{
+	background: url(../image/id3.jpg)no-repeat;
+	width: 300px;
+	height: 300px;
+	position: relative;
+	top:50px;
+}
+#fac3
+{
+
+	background: url(../image/gg.jpg)no-repeat;
+	width: 300px;
+	height: 250px;
+	position: relative;
+	top:50px;
+}
+.fa{
+	position: relative;
+	top:-5px;
+}
+
+.fa h1
+{
+	text-align: left;
+	font-size: 25px;
+	padding-top: -20px;
+	font-family: 'Playfair Display', serif;
+
+}
+.fa p
+{
+	text-align: left;
+	font-size: 15px;
+	padding-top: 10px;
+	font-family: 'Playfair Display', serif;
+	color: black;
+
+}
 footer{
 	width:100%;
 	height:50px;
 	background: #8B4513;
 	position: relative;
-	top: 0px;
-	
+	top: 80px;
+
 
 }
 .foot li a{
-		
+
 		display: inline;
 		float: right;
-        
-        margin-right: 10px; 
-	  font-size: px;
-	   font-family: sans-serif;
-	   margin-top: 14px;
-	   margin-left:0px;
- 
+     margin-right: 10px;
+		 margin-top: 14px;
+	  
+
 
 }
 .ic
@@ -247,13 +318,13 @@ footer{
 		float: right;
         color: black;
         text-align: center;
-         margin-right: 50px; 
+         margin-right: 50px;
 	font-size: 20px;
 	font-family: sans-serif;
 	margin-top: 0px;
 	margin-left: 20px;
 	margin-right:0px;
-	padding-top: 40px; 
+	padding-top: 40px;
 	text-align: center;
 }
 .detail a
@@ -261,8 +332,8 @@ footer{
 	text-decoration: none;
 	 text-align: center;
 	 font-color:white;
-	 
-} 
+
+}
 .f
 {
 	float: left;
@@ -283,18 +354,6 @@ footer{
 }
 #f0
 {
-	width:100px;
+	width:80px;
 }
-.map{
-	background: url(../image/map.png);
-	width:1200px;
-	height: 600px;
-	margin: auto;
-	position: relative;
-	top:-100px;
-}
-.track
-{
-	position: relative;
-	top:30px;
-}
+
